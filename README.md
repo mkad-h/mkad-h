@@ -14,8 +14,8 @@ I'm a self-taught cybersecurity enthusiast, currently preparing for my next cert
 | Certification | Status |
 |---------------|--------|
 | eJPTv2        | ✅ Completed |
-| CRTA          | ⏳ In Progress |
-| CRTP          | 🎟 Ticket Open |
+| CRTA          | ✅ Completed |
+| CWES          | ⏳ In Progress |
 
 ## 🌐 My Web 
 [![My Portfolio](https://img.shields.io/badge/Portfolio-Visit_Me-blue?style=for-the-badge&logo=github&logoColor=white)](https://mkadd.com)
