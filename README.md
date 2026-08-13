@@ -15,7 +15,10 @@ I'm a self-taught cybersecurity enthusiast, currently preparing for my next cert
 |---------------|--------|
 | eJPTv2        | ✅ Completed |
 | CRTA          | ✅ Completed |
-| CWES          | ⏳ In Progress |
+| CPTS          | ⏳ In Progress |
+| OSCP          | 👁️ In the crosshair |
 
-## 🌐 My Web 
-[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit_Me-blue?style=for-the-badge&logo=github&logoColor=white)](https://mkadd.com)
+
+
+## Nim Course 0 to Advanced (Spanish Version, Last update 2025)
+URL: https://www.youtube.com/watch?v=oXHCY4RTr4I&list=PLkkJL7yltT73lgKob7fn2KP-b4MK_qIWf
